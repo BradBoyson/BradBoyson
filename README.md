@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @BradBoyson
 - 👀 I’m interested in Human Capital, Organization Capabilities and Individual Competencies
 - 🌱 I’m currently learning Smart Contract Programming, Value Reporting, ESG Investing
-- 💞️ I’m looking to collaborate on HR DAOs 
+- 💞️ I’m looking to collaborate on HR/HC DAOs 
 - 📫 How to reach me brad@boyson.com 
 
 <!---
